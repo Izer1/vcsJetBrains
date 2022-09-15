@@ -1,0 +1,87 @@
+[1;31m
+Start test 1[0m
+The username is Max.
+[1;31m
+Start test 2[0m
+ The file 'abc.txt' is tracked.
+[1;31m
+Start test 3[0m
+These are SVCS commands:
+#config     Get and set a username.
+$add        Add a file to the index.
+log        Show commit logs.
+commit     Save changes.
+checkout   Restore a file.
+These are SVCS commands:
+#config     Get and set a username.
+$add        Add a file to the index.
+log        Show commit logs.
+commit     Save changes.
+checkout   Restore a file.
+[1;31m
+Start test 4[0m
+Please, tell me who you are.
+The username is Max.
+The username is Max.
+The username is John.
+The username is John.
+[1;31m
+Start test 5[0m
+Add a file to the index.
+$The file 'file732.txt' is tracked.
+Tracked files:
+file732.txt
+#The file 'file14.txt' is tracked.
+Tracked files:
+file732.txt
+file14.txt
+Can't find 'file386.txt'.
+[1;31m
+Start test 6[0m
+The username is Marie459.
+'The file 'first_file.txt' is tracked.
+(The file 'second_file.txt' is tracked.
+Changes are committed.
+[1;31m
+Start test 7[0m
+The username is Christine483.
+'The file 'first_file.txt' is tracked.
+(The file 'second_file.txt' is tracked.
+No commits yet.
+Message was not passed.
+Changes are committed.
+4commit kFlb0d9YD8vQH4TZj917RDdpc46UgN/gCAnrBmyjDgE=
+Author: Christine483
+Test message
+
+Nothing to commit.
+Changes are committed.
+4commit maL3SA6BRFT7bM81Eaa8XnsVQcwmkVmfUeZkYEiOAeM=
+Author: Christine483
+Test message3
+
+4commit kFlb0d9YD8vQH4TZj917RDdpc46UgN/gCAnrBmyjDgE=
+Author: Christine483
+Test message
+
+[1;31m
+Start test 8[0m
+The username is Sofie68.
+'The file 'first_file.txt' is tracked.
+(The file 'second_file.txt' is tracked.
+Changes are committed.
+Changes are committed.
+Commit id was not passed.
+Commit does not exist.
+4commit Lk9MEFvmKdxHx8VVf+P3mO5YTTYJb0Xtj5z6+RfHAlk=
+Author: Sofie68
+Second commit
+
+4commit G9RvVAFXfpwKRJrUnIYnPpyQI8sj3GbJTPqXiNYvbro=
+Author: Sofie68
+First commit
+
+BSwitched to commit G9RvVAFXfpwKRJrUnIYnPpyQI8sj3GbJTPqXiNYvbro=.
+[1;31m
+Start test 9[0m
+&'wrongArg483' is not a SVCS command.
